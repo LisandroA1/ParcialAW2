@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Leche"
+  },
+  {
+    "id": 2,
+    "name": "Huevos"
+  },
+  {
+    "id": 3,
+    "name": "Mantequilla"
+  },
+  {
+    "id": 4,
+    "name": "Queso"
+  },
+  {
+    "id": 5,
+    "name": "Pan"
+  },
+  {
+    "id": 6,
+    "name": "Jamón"
+  },
+  {
+    "id": 7,
+    "name": "Yogur"
+  },
+  {
+    "id": 8,
+    "name": "Café"
+  },
+  {
+    "id": 9,
+    "name": "Té"
+  },
+  {
+    "id": 10,
+    "name": "Cereal"
+  },
+  {
+    "id": 11,
+    "name": "Mermelada"
+  },
+  {
+    "id": 12,
+    "name": "Zumo"
+  },
+  {
+    "id": 13,
+    "name": "Mermeladas"
+  },
+  {
+    "id": 14,
+    "name": "manteca"
+  }
+]

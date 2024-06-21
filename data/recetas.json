@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de Zanahoria",
+    "ingredientes": [
+      {
+        "idIngrediente": 1,
+        "cantidad": 3
+      },
+      {
+        "idIngrediente": 4,
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Ensalada César",
+    "ingredientes": [
+      {
+        "idIngrediente": 5,
+        "cantidad": 150
+      },
+      {
+        "idIngrediente": 6,
+        "cantidad": 50
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Brownies",
+    "ingredientes": [
+      {
+        "idIngrediente": 2,
+        "cantidad": 100
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Omelette",
+    "ingredientes": [
+      {
+        "idIngrediente": 3,
+        "cantidad": 2
+      },
+      {
+        "idIngrediente": 7,
+        "cantidad": 50
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Sopa de Tomate",
+    "ingredientes": [
+      {
+        "idIngrediente": 8,
+        "cantidad": 200
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Empanadas",
+    "ingredientes": [
+      {
+        "idIngrediente": 9,
+        "cantidad": 300
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Pollo al Horno",
+    "ingredientes": [
+      {
+        "idIngrediente": 10,
+        "cantidad": 1
+      },
+      {
+        "idIngrediente": 5,
+        "cantidad": 50
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Hamburguesa",
+    "ingredientes": [
+      {
+        "idIngrediente": 11,
+        "cantidad": 2
+      },
+      {
+        "idIngrediente": 12,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Galletas de Avena",
+    "ingredientes": [
+      {
+        "idIngrediente": 10,
+        "cantidad": 100
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Spaghetti Bolognese",
+    "ingredientes": [
+      {
+        "idIngrediente": 7,
+        "cantidad": 250
+      },
+      {
+        "idIngrediente": 8,
+        "cantidad": 150
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Tarta de cebolla",
+    "ingredientes": [
+      {
+        "idIngrediente": 2,
+        "cantidad": "3"
+      },
+      {
+        "idIngrediente": 12,
+        "cantidad": "1"
+      }
+    ]
+  }
+]
