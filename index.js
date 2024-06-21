@@ -24,10 +24,3 @@ app.use('/ing', ingRouter)
 app.use('/recetas', recetasRouter)
 
 
-/*Generico*/
-app.get('/', (req, res) =>{
-    res.send('Hola Mundo')
-}) 
-app.get('/test', (req, res) =>{
-    res.send('muy bien lichita')
-}) 
